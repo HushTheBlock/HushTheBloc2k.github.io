@@ -3,8 +3,6 @@
 
 {% block title %}{{ page.title }} | {{ title }}{% endblock %}
 
-{% block class %}post{% endblock %}
-
 {% block content %}
 
   <div class="posts-expand">
